@@ -1,5 +1,5 @@
-# medical-cost-prediction
-#Medical Cost Prediction using Machine Learning
+
+# Medical Cost Prediction using Machine Learning
 Project Overview
 
 This project focuses on predicting individual medical insurance costs using machine learning regression techniques. The goal is to analyze demographic and lifestyle factors such as age, BMI, smoking status, and region to estimate healthcare charges.
